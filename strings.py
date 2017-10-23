@@ -1,0 +1,10 @@
+var1="hello"
+var2="world"
+var3="hey"
+#concatenate
+print(var1+var2)
+#repition
+print(var3*3)
+#slice
+print(var1[1:3])
+print(max(var1),min(var2),len(var2))

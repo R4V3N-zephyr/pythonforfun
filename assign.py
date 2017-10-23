@@ -1,0 +1,9 @@
+var1=1
+var2=2
+var3=3
+var4=6
+var1+=2
+var2-=4
+var3*=5
+var4/=6
+print(var1,var2,var3,var4)
